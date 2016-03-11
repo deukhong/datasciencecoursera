@@ -1,3 +1,7 @@
+
+## This is a markdown file
+### STEPH CURRY FOR THE WIN
+
 ---
 title: "HelloWorld"
 author: "Deuk"
@@ -28,4 +32,3 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
-## This is a markdown file
